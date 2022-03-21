@@ -1,0 +1,12 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00b7ff;
+}
+
+main {
+  height: 80vh;
+  padding-top: 20px;
+}
